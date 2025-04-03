@@ -38,3 +38,13 @@ Top Specialties with High Waitlists: Ophthalmology, General Surgery, Dermatology
 
 Power BI → Data Modeling, DAX, Dashboard Design
 GitHub → Version Control & Project Sharing
+
+📊 Dashboard Preview  
+
+<p align="center">
+  <img src="https://github.com/yash-h10/Healthcare-Data-Analysis/blob/main/HWL%201.png" width="700">
+</p>
+
+<p align="center">
+  <img src="https://github.com/yash-h10/Healthcare-Data-Analysis/blob/main/HWL%202.png" width="700">
+</p>
